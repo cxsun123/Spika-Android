@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="2993" dy="1771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1492" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="69" value="" style="fillColor=#fad9d5;strokeColor=#ae4132;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-220" y="-120" width="2650" height="1120" as="geometry" />
+        <mxCell id="69" value="request.user = client_role.user_cache" style="fillColor=#fad9d5;strokeColor=#ae4132;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="-186" y="-152" width="2650" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="2" value="" style="fillColor=#CC4125;strokeColor=#660000;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-110" y="175" width="10" height="130" as="geometry" />
