@@ -123,11 +123,6 @@
             <mxPoint x="367" y="495" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HnRHryOFo4jIYyD-wib6-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1091" y="414" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HnRHryOFo4jIYyD-wib6-86" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;pre style=&quot;text-align: right; font-size: 15px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;white-space-collapse: collapse;&quot;&gt;get_pending_publickeys()&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#EEEEEE;labelBackgroundColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="777" y="376" width="189" height="60" as="geometry" />
         </mxCell>
