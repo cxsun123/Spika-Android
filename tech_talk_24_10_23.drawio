@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="1633" dy="1469" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="1387" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,7 +142,7 @@
         <mxCell id="_NU2ZN515jxC7wL2CLro-90" value="" style="fillColor=#09555B;strokeColor=#BAC8D3;fontSize=15;fontColor=#EEEEEE;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1785" y="169" width="10" height="121.38" as="geometry" />
         </mxCell>
-        <mxCell id="_NU2ZN515jxC7wL2CLro-92" value="" style="edgeStyle=none;endArrow=none;dashed=1;fontSize=15;fontColor=default;labelBackgroundColor=none;strokeColor=#0B4D6A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="_NU2ZN515jxC7wL2CLro-90" edge="1" source="_NU2ZN515jxC7wL2CLro-85">
+        <mxCell id="_NU2ZN515jxC7wL2CLro-92" value="" style="edgeStyle=none;endArrow=none;dashed=1;fontSize=15;fontColor=default;labelBackgroundColor=none;strokeColor=#0B4D6A;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_NU2ZN515jxC7wL2CLro-85" target="_NU2ZN515jxC7wL2CLro-90" edge="1">
           <mxGeometry x="376.5711805555559" y="339.6971450617284" width="100" height="100" as="geometry">
             <mxPoint x="1627.9" y="123" as="sourcePoint" />
             <mxPoint x="1622.9" y="177" as="targetPoint" />
@@ -166,19 +166,19 @@
         <mxCell id="rRgI-piEJR2NT5U421E4-78" value="Build the JWT Payload in toke request&#xa;&#xa;Subject: client role ID&#xa;Actor: partner role ID, partner company ID, user ID&#xa;Actor of actor: super user ID&#xa;AMR: pass auth status, mfa check status" style="shape=note;align=left;fontSize=15;verticalAlign=top;fontColor=#EEEEEE;fillColor=#333300;labelBackgroundColor=none;strokeColor=#BAC8D3;spacing=3;" parent="1" vertex="1">
           <mxGeometry x="786" y="361.5" width="354" height="137" as="geometry" />
         </mxCell>
-        <mxCell id="z2O3Q1LjJvFne5vD3scs-67" value="Cloudflare workers" style="shadow=1;fillColor=#331A00;strokeColor=none;fontSize=15;fontColor=#EEEEEE;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="z2O3Q1LjJvFne5vD3scs-67" value="Cloudflare workers" style="shadow=1;fillColor=#331A00;strokeColor=none;fontSize=15;fontColor=#EEEEEE;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="593" y="79" width="165" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="z2O3Q1LjJvFne5vD3scs-68" value="" style="fillColor=#331A00;strokeColor=#BAC8D3;fontSize=15;fontColor=#EEEEEE;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="z2O3Q1LjJvFne5vD3scs-68" value="" style="fillColor=#331A00;strokeColor=#BAC8D3;fontSize=15;fontColor=#EEEEEE;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="663" y="167.19" width="10" height="39.81" as="geometry" />
         </mxCell>
-        <mxCell id="z2O3Q1LjJvFne5vD3scs-69" value="" style="edgeStyle=none;endArrow=none;dashed=1;fontSize=15;fontColor=default;labelBackgroundColor=none;strokeColor=#331A00;" edge="1" parent="1">
+        <mxCell id="z2O3Q1LjJvFne5vD3scs-69" value="" style="edgeStyle=none;endArrow=none;dashed=1;fontSize=15;fontColor=default;labelBackgroundColor=none;strokeColor=#331A00;" parent="1" edge="1">
           <mxGeometry x="727.3350694444446" y="165" width="100" height="100" as="geometry">
             <mxPoint x="667.5" y="129" as="sourcePoint" />
             <mxPoint x="668" y="178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z2O3Q1LjJvFne5vD3scs-73" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=3;rounded=0;fontColor=default;labelBackgroundColor=none;strokeColor=#0B4D6A;" edge="1" parent="1" source="_NU2ZN515jxC7wL2CLro-101">
+        <mxCell id="z2O3Q1LjJvFne5vD3scs-73" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=3;rounded=0;fontColor=default;labelBackgroundColor=none;strokeColor=#0B4D6A;" parent="1" source="_NU2ZN515jxC7wL2CLro-101" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="936.9" y="212" as="sourcePoint" />
             <mxPoint x="939" y="351" as="targetPoint" />
